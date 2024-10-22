@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking for an internship 
-- 📫 How to reach me Shailendra039
 
 
 <!---
